@@ -7,4 +7,4 @@ Description: This project aims to predict the death of patients suffering from h
 
 Keywords: heart failure, features, ejection fraction, serum creatinine, age
 
-Author: Ozokcu Arzu, Therry Leonore
+Authors: Ozokcu Arzu, Therry Leonore
